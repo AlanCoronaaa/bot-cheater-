@@ -8,6 +8,7 @@ CAMARA = "https://www.bestbuy.com/site/gopro-hero10-black-action-camera/6474501.
 
 CLASE_HTML = "c-button c-button-primary c-button-lg c-button-block c-button-icon c-button-icon-leading add-to-cart-button"
 
+
 PRODUCTOS = [
   ("RTX 3060", TARJETA1),
   ("RTX 3080", TARJETA2),
